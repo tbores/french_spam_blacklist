@@ -1,0 +1,7 @@
+version="9"
+logging="yes"
+name="Liste noire d'expéditeurs de spam en France"
+enabled="yes"
+type="1"
+action="Delete"
+condition="OR (from,is,send@email.select-info.fr) OR (from,is,contact@collections-tendance.fr) OR (from,is,send@email.mode-en-ligne.fr) OR (from,is,info@info.le-temps-des-news.fr) OR (from,is,contact@deco-ambiances.fr) OR (from,is,info@univers-ducadeau.fr) OR (from,is,contact@info.experts-achat.fr) OR (from,is,reply@email.invest-news.fr) OR (from,is,send@email.invest-news.fr) OR (from,is,info@prevoyance-sante.fr) OR (from,is,info@mirage-oasis.fr) OR (from,is,rapidereponse1452@outlook.com) OR (from,is,reponse-auto2363@outlook.com) OR (from,is,biotherm@fr.newsletters.biotherm.com) OR (from,is,actu@news.amutan.fr) OR (from,is,Distributeur@comandlead.com) OR (from,is,Daici.com@advertisecom.net) OR (from,is,send@email.home-web.fr) OR (from,is,contact@news-bonvoyages.com) OR (from,is,newsletter@email2.ventees-privee.com) OR (from,is,mail@experts-achat.fr) OR (from,is,Mutuelle_senior@depresszen.fr) OR (from,is,newsletter@email2.mes-offre.com) OR (from,is,info@ambitions-secretes.fr) OR (from,is,send@email.infopublic.fr) OR (from,is,contact@projet-novateur.fr) OR (from,is,send@email.achats-divers.fr) OR (from,is,send@email.assurhexag.fr) OR (from,is,reponse-auto7851@outlook.fr)"
